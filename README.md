@@ -1,1 +1,1 @@
-<a href="https://aleksmoore.github.io/test/">Ссылка</a>
+<a href="https://aleksmoore.github.io/test-rnd/">Ссылка</a>
